@@ -1,0 +1,11 @@
+C:\Users\fz\source\repos\Calculator1\Calculator1\bin\Debug\netcoreapp3.1\Calculator1.exe
+C:\Users\fz\source\repos\Calculator1\Calculator1\bin\Debug\netcoreapp3.1\Calculator1.deps.json
+C:\Users\fz\source\repos\Calculator1\Calculator1\bin\Debug\netcoreapp3.1\Calculator1.runtimeconfig.json
+C:\Users\fz\source\repos\Calculator1\Calculator1\bin\Debug\netcoreapp3.1\Calculator1.runtimeconfig.dev.json
+C:\Users\fz\source\repos\Calculator1\Calculator1\bin\Debug\netcoreapp3.1\Calculator1.dll
+C:\Users\fz\source\repos\Calculator1\Calculator1\bin\Debug\netcoreapp3.1\Calculator1.pdb
+C:\Users\fz\source\repos\Calculator1\Calculator1\obj\Debug\netcoreapp3.1\Calculator1.csprojAssemblyReference.cache
+C:\Users\fz\source\repos\Calculator1\Calculator1\obj\Debug\netcoreapp3.1\Calculator1.AssemblyInfoInputs.cache
+C:\Users\fz\source\repos\Calculator1\Calculator1\obj\Debug\netcoreapp3.1\Calculator1.AssemblyInfo.cs
+C:\Users\fz\source\repos\Calculator1\Calculator1\obj\Debug\netcoreapp3.1\Calculator1.dll
+C:\Users\fz\source\repos\Calculator1\Calculator1\obj\Debug\netcoreapp3.1\Calculator1.pdb
