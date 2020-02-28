@@ -1,0 +1,11 @@
+C:\Users\fz\source\repos\ConsoleApp2_0228_2\ConsoleApp2_0228_2\bin\Debug\netcoreapp3.1\ConsoleApp2_0228_2.exe
+C:\Users\fz\source\repos\ConsoleApp2_0228_2\ConsoleApp2_0228_2\bin\Debug\netcoreapp3.1\ConsoleApp2_0228_2.deps.json
+C:\Users\fz\source\repos\ConsoleApp2_0228_2\ConsoleApp2_0228_2\bin\Debug\netcoreapp3.1\ConsoleApp2_0228_2.runtimeconfig.json
+C:\Users\fz\source\repos\ConsoleApp2_0228_2\ConsoleApp2_0228_2\bin\Debug\netcoreapp3.1\ConsoleApp2_0228_2.runtimeconfig.dev.json
+C:\Users\fz\source\repos\ConsoleApp2_0228_2\ConsoleApp2_0228_2\bin\Debug\netcoreapp3.1\ConsoleApp2_0228_2.dll
+C:\Users\fz\source\repos\ConsoleApp2_0228_2\ConsoleApp2_0228_2\bin\Debug\netcoreapp3.1\ConsoleApp2_0228_2.pdb
+C:\Users\fz\source\repos\ConsoleApp2_0228_2\ConsoleApp2_0228_2\obj\Debug\netcoreapp3.1\ConsoleApp2_0228_2.csprojAssemblyReference.cache
+C:\Users\fz\source\repos\ConsoleApp2_0228_2\ConsoleApp2_0228_2\obj\Debug\netcoreapp3.1\ConsoleApp2_0228_2.AssemblyInfoInputs.cache
+C:\Users\fz\source\repos\ConsoleApp2_0228_2\ConsoleApp2_0228_2\obj\Debug\netcoreapp3.1\ConsoleApp2_0228_2.AssemblyInfo.cs
+C:\Users\fz\source\repos\ConsoleApp2_0228_2\ConsoleApp2_0228_2\obj\Debug\netcoreapp3.1\ConsoleApp2_0228_2.dll
+C:\Users\fz\source\repos\ConsoleApp2_0228_2\ConsoleApp2_0228_2\obj\Debug\netcoreapp3.1\ConsoleApp2_0228_2.pdb
