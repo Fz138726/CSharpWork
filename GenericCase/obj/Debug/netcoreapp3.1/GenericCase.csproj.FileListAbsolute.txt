@@ -1,0 +1,11 @@
+C:\Users\fz\source\repos\GenericCase\bin\Debug\netcoreapp3.1\GenericCase.exe
+C:\Users\fz\source\repos\GenericCase\bin\Debug\netcoreapp3.1\GenericCase.deps.json
+C:\Users\fz\source\repos\GenericCase\bin\Debug\netcoreapp3.1\GenericCase.runtimeconfig.json
+C:\Users\fz\source\repos\GenericCase\bin\Debug\netcoreapp3.1\GenericCase.runtimeconfig.dev.json
+C:\Users\fz\source\repos\GenericCase\bin\Debug\netcoreapp3.1\GenericCase.dll
+C:\Users\fz\source\repos\GenericCase\bin\Debug\netcoreapp3.1\GenericCase.pdb
+C:\Users\fz\source\repos\GenericCase\obj\Debug\netcoreapp3.1\GenericCase.csprojAssemblyReference.cache
+C:\Users\fz\source\repos\GenericCase\obj\Debug\netcoreapp3.1\GenericCase.AssemblyInfoInputs.cache
+C:\Users\fz\source\repos\GenericCase\obj\Debug\netcoreapp3.1\GenericCase.AssemblyInfo.cs
+C:\Users\fz\source\repos\GenericCase\obj\Debug\netcoreapp3.1\GenericCase.dll
+C:\Users\fz\source\repos\GenericCase\obj\Debug\netcoreapp3.1\GenericCase.pdb
