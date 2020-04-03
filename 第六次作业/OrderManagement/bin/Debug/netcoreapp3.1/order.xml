@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <customer>张强</customer>
+    <DateTime>2020-04-02T21:47:55.7462428+08:00</DateTime>
+    <orderItems>
+      <OrderItem>
+        <name>ipad</name>
+        <price>4500</price>
+        <num>2</num>
+      </OrderItem>
+      <OrderItem>
+        <name>iphone</name>
+        <price>8000</price>
+        <num>1</num>
+      </OrderItem>
+    </orderItems>
+  </Order>
+  <Order>
+    <customer>小丽</customer>
+    <DateTime>2020-04-02T21:47:55.7498972+08:00</DateTime>
+    <orderItems>
+      <OrderItem>
+        <name>裙子</name>
+        <price>400</price>
+        <num>1</num>
+      </OrderItem>
+      <OrderItem>
+        <name>防晒霜</name>
+        <price>65</price>
+        <num>3</num>
+      </OrderItem>
+    </orderItems>
+  </Order>
+</ArrayOfOrder>
