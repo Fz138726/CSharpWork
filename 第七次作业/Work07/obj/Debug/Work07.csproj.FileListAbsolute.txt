@@ -1,0 +1,9 @@
+C:\Users\fz\source\repos\Work07\bin\Debug\Work07.exe.config
+C:\Users\fz\source\repos\Work07\bin\Debug\Work07.exe
+C:\Users\fz\source\repos\Work07\bin\Debug\Work07.pdb
+C:\Users\fz\source\repos\Work07\obj\Debug\Work07.csprojAssemblyReference.cache
+C:\Users\fz\source\repos\Work07\obj\Debug\Work07.Form1.resources
+C:\Users\fz\source\repos\Work07\obj\Debug\Work07.Properties.Resources.resources
+C:\Users\fz\source\repos\Work07\obj\Debug\Work07.csproj.GenerateResource.cache
+C:\Users\fz\source\repos\Work07\obj\Debug\Work07.exe
+C:\Users\fz\source\repos\Work07\obj\Debug\Work07.pdb
